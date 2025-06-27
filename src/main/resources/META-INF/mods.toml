@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="MIT"
+[[mods]]
+modId="mocreatures"
+version="1.0.0"
+displayName="MoCreatures Neo"
+description='''Adaptado para NeoForge 1.21.1'''
